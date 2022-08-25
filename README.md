@@ -1,5 +1,5 @@
 
-# React Weather App
+# Weather Website - React
  
 ## Authors
 * [Shaked Vaknin](https://github.com/shakedva)
@@ -22,5 +22,5 @@ you might receive invalid  information or might not receive at all.
 
 ## Screenshots
 
-<img src="public/screenshots/p1.png" width="70%" height="70%">
-<img src="public/screenshots/p2.png" width="70%" height="70%">
+<img src="public/screenshots/image1.png" width="70%" height="70%">
+<img src="public/screenshots/image2.png" width="70%" height="70%">
